@@ -1,0 +1,5 @@
+export enum ItemStatusENUM {
+  COMPLETED = 'COMPLETED',
+  PENDING = 'PENDING',
+  REJECTED = 'REJECTED',
+}
