@@ -9,6 +9,7 @@ async function bootstrap() {
     .setTitle('Simple To Do List Application')
     .setDescription('Simple To Do List API Application')
     .setVersion('v1')
+    .addBearerAuth()
     .build();
 
   const document = SwaggerModule.createDocument(app, config);
