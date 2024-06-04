@@ -2,12 +2,12 @@
 
 ## Server
 ```bash
-https://nestjs-to-do-list-server.herokuapp.com
+https://nestjs-to-do-list-server.onrender.com
 ```
 
 ## Swagger UI
 ```bash
-https://nestjs-to-do-list-server.herokuapp.com/apis
+https://nestjs-to-do-list-server.onrender.com/apis
 ```
 
 
